@@ -1277,7 +1277,7 @@ msgstr "Lưu trữ Slide"
 #: model_terms:ir.ui.view,arch_db:website_slides.view_slide_slide_form
 #: model_terms:ir.ui.view,arch_db:website_slides.view_slide_slide_search
 msgid "Archived"
-msgstr "Đã lưu trữ"
+msgstr "Đã đạt được"
 
 #. module: website_slides
 #. openerp-web
