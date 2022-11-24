@@ -69,7 +69,7 @@
 
     .o_cp_bottom_right {
         display: flex;
-        flex-wrap: wrap;
+        flex-wrap: nowrap;
         justify-content: flex-end;
         column-gap: $o-horizontal-padding;
 
