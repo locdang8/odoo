@@ -281,12 +281,12 @@ msgstr ""
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_report
 msgid "<span>Minimum purchase of</span>"
-msgstr "<span>Minimum purchase of</span>"
+msgstr "<span>Mua tối thiểu</span>"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_report
 msgid "<span>Valid for purchase above</span>"
-msgstr "<span>Valid for purchase above</span>"
+msgstr "<span>Áp dụng cho mua hàng trên</span>"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_reward_view_form
@@ -296,7 +296,7 @@ msgstr ""
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_report
 msgid "<span>products</span>"
-msgstr "<span>products</span>"
+msgstr "<span>sản phẩm</span>
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_rule_view_form
@@ -599,7 +599,7 @@ msgstr "Điều kiện"
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_report
 msgid "Congratulations"
-msgstr "Congratulations"
+msgstr "Chúc mừng"
 
 #. module: loyalty
 #. odoo-javascript
@@ -616,12 +616,12 @@ msgstr "Phiếu giảm giá"
 #. module: loyalty
 #: model:ir.actions.report,name:loyalty.report_loyalty_card
 msgid "Coupon Code"
-msgstr "Coupon Code"
+msgstr "Mã giảm giá"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__coupon_count
 msgid "Coupon Count"
-msgstr "Coupon Count"
+msgstr "Số lượng Phiếu giảm giá"
 
 #. module: loyalty
 #. odoo-python
@@ -716,12 +716,12 @@ msgstr "Biểu tượng tiền tệ, được sử dụng khi in tổng tiền."
 #. module: loyalty
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_program__applies_on__both
 msgid "Current & Future orders"
-msgstr ""
+msgstr "Đơn đặt hàng hiện tại & tương lai"
 
 #. module: loyalty
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_program__applies_on__current
 msgid "Current order"
-msgstr ""
+msgstr "Đơn đặt hàng hiện tại"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_generate_wizard__customer_tag_ids
@@ -864,7 +864,7 @@ msgstr "Mẫu email"
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_program__mail_template_id
 msgid "Email template"
-msgstr ""
+msgstr "Mẫu email"
 
 #. module: loyalty
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_rule__minimum_amount_tax_mode__excl
@@ -919,7 +919,7 @@ msgstr "Sản phẩm miễn phí"
 #: code:addons/loyalty/models/loyalty_reward.py:0
 #, python-format
 msgid "Free Product - %s"
-msgstr "Free Product - %s"
+msgstr "Sản phẩm miễn phí - %s"
 
 #. module: loyalty
 #: model:loyalty.reward,description:loyalty.3_cabinets_plus_1_free_reward
@@ -941,7 +941,7 @@ msgstr ""
 #. module: loyalty
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_program__applies_on__future
 msgid "Future orders"
-msgstr ""
+msgstr "Đơn đặt hàng trong tương lai"
 
 #. module: loyalty
 #. odoo-javascript
@@ -964,7 +964,7 @@ msgstr ""
 #: model:ir.model,name:loyalty.model_loyalty_generate_wizard
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
 msgid "Generate Coupons"
-msgstr "Generate Coupons"
+msgstr "Tạo phiếu giảm giá"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
@@ -1005,7 +1005,7 @@ msgstr "Thẻ quà tặng"
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
 msgid "Gift Card Products"
-msgstr ""
+msgstr "Sản phẩm thẻ quà tặng"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_generate_wizard_view_form
@@ -1064,7 +1064,7 @@ msgstr "Đây là thẻ quà tặng của bạn!"
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_report
 msgid "Here is your reward from"
-msgstr "Here is your reward from"
+msgstr "Đây là phần thưởng của bạn từ"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_card__id
@@ -1391,7 +1391,7 @@ msgstr "Thẻ sản phẩm"
 #. module: loyalty
 #: model:ir.model,name:loyalty.model_product_product
 msgid "Product Variant"
-msgstr "Biến thể sản phẩm"
+msgstr "Biến thể Sản phẩm"
 
 #. module: loyalty
 #: model:ir.model.fields,help:loyalty.field_loyalty_reward__discount_line_product_id
@@ -1428,12 +1428,12 @@ msgstr "Tên chương trình"
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__program_type
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_rule__program_type
 msgid "Program Type"
-msgstr "Program Type"
+msgstr "Loai Chương trình"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
 msgid "Program trigger"
-msgstr ""
+msgstr "Chương trình kích hoạt"
 
 #. module: loyalty
 #. odoo-python
@@ -1463,7 +1463,7 @@ msgstr ""
 #: code:addons/loyalty/models/loyalty_program.py:0
 #, python-format
 msgid "Promotional Program"
-msgstr "Promotional Program"
+msgstr "Chương trình khuyến mại"
 
 #. module: loyalty
 #: model:ir.model.fields.selection,name:loyalty.selection__loyalty_program__program_type__promotion
@@ -1696,12 +1696,12 @@ msgstr "Use a code"
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_program_view_form
 msgid "Use points on"
-msgstr ""
+msgstr "Sử dụng điểm trên"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_report
 msgid "Use this promo code before"
-msgstr "Use this promo code before"
+msgstr "Sử dụng mã khuyến mãi này trước"
 
 #. module: loyalty
 #: model:ir.model.fields,field_description:loyalty.field_loyalty_reward__user_has_debug
@@ -1787,7 +1787,7 @@ msgstr ""
 #. module: loyalty
 #: model:mail.template,report_name:loyalty.mail_template_loyalty_card
 msgid "Your Coupon Code"
-msgstr "Your Coupon Code"
+msgstr "Mã phiếu giảm giá của bạn"
 
 #. module: loyalty
 #: model:mail.template,report_name:loyalty.mail_template_gift_card
@@ -1872,7 +1872,7 @@ msgstr ""
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_report
 msgid "on your next order"
-msgstr "on your next order"
+msgstr "trong đơn đặt hàng tiếp theo của bạn"
 
 #. module: loyalty
 #: model_terms:ir.ui.view,arch_db:loyalty.loyalty_reward_view_kanban
