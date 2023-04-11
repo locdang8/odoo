@@ -70,7 +70,7 @@ msgstr ""
 #: code:addons/pos_loyalty/static/src/xml/OrderWidget.xml:0
 #, python-format
 msgid "Active Coupons"
-msgstr "Phiếu giảm giá đang hoạt động"
+msgstr "Phiếu giảm giá Đang hoạt động"
 
 #. module: pos_loyalty
 #. odoo-javascript
@@ -84,7 +84,7 @@ msgstr "Chương trình đang hoạt động"
 #: code:addons/pos_loyalty/static/src/xml/OrderWidget.xml:0
 #, python-format
 msgid "Active Rewards"
-msgstr "Phần thưởng có hiệu lực"
+msgstr "Phần thưởng Có hiệu lực"
 
 #. module: pos_loyalty
 #: model_terms:ir.ui.view,arch_db:pos_loyalty.loyalty_program_view_form_inherit_pos_loyalty
@@ -94,7 +94,7 @@ msgstr "Tất cả PoS"
 #. module: pos_loyalty
 #: model:ir.model.fields,field_description:pos_loyalty.field_loyalty_rule__any_product
 msgid "Any Product"
-msgstr "Bất kỳ sản phẩm"
+msgstr "Bất kỳ Sản phẩm"
 
 #. module: pos_loyalty
 #. odoo-javascript
@@ -148,14 +148,14 @@ msgstr "Mã phiếu giảm giá"
 #. module: pos_loyalty
 #: model:loyalty.program,portal_point_name:pos_loyalty.15_pc_on_next_order
 msgid "Coupon point(s)"
-msgstr "(Các) điểm giảm giá"
+msgstr "(Các) Điểm giảm giá"
 
 #. module: pos_loyalty
 #. odoo-javascript
 #: code:addons/pos_loyalty/static/src/xml/Orderline.xml:0
 #, python-format
 msgid "Current Balance:"
-msgstr "Số dư hiện tại:"
+msgstr "Số dư Hiện tại:"
 
 #. module: pos_loyalty
 #. odoo-javascript
@@ -215,7 +215,7 @@ msgstr "Lỗi xác thực phần thưởng"
 #. module: pos_loyalty
 #: model:loyalty.reward,description:pos_loyalty.loyalty_program_reward
 msgid "Free Product - Simple Pen"
-msgstr ""
+msgstr "Sản phẩm miễn phí - Bút đơn giản"
 
 #. module: pos_loyalty
 #: model:ir.model.fields.selection,name:pos_loyalty.selection__pos_config__gift_card_settings__create_set
@@ -227,7 +227,7 @@ msgstr "Tạo thẻ PDF"
 #: code:addons/pos_loyalty/static/src/js/ProductScreen.js:0
 #, python-format
 msgid "Generate a Gift Card"
-msgstr "Tạo thẻ quà tặng"
+msgstr "Tạo thẻ Quà tặng"
 
 #. module: pos_loyalty
 #: model:ir.model.fields,field_description:pos_loyalty.field_pos_config__gift_card_settings
@@ -240,7 +240,7 @@ msgstr "Cài đặt thẻ quà tặng"
 #: code:addons/pos_loyalty/static/src/js/ControlButtons/PromoCodeButton.js:0
 #, python-format
 msgid "Gift card or Discount code"
-msgstr "Thẻ quà tặng hoặc Mã giảm giá"
+msgstr "Thẻ quà Tặng hoặc Mã giảm giá"
 
 #. module: pos_loyalty
 #: model:ir.ui.menu,name:pos_loyalty.menu_gift_ewallet_type_config
@@ -284,12 +284,12 @@ msgstr "Chương trình thẻ quà tặng không hợp lệ. Nhiều hơn một 
 #. module: pos_loyalty
 #: model:ir.model.fields,field_description:pos_loyalty.field_pos_order_line__is_reward_line
 msgid "Is Reward Line"
-msgstr "Là dòng Thưởng"
+msgstr "Là Dòng Thưởng"
 
 #. module: pos_loyalty
 #: model:ir.model,name:pos_loyalty.model_loyalty_mail
 msgid "Loyalty Communication"
-msgstr "Thông tin liên lạc thân thiết"
+msgstr "Thông tin liên lạc Khách hàng thân thiết"
 
 #. module: pos_loyalty
 #: model:ir.model,name:pos_loyalty.model_loyalty_card
@@ -442,7 +442,7 @@ msgstr "Chương trình: %(name), Sản phẩm quy tắc: `%(rule_product)`"
 #: code:addons/pos_loyalty/static/src/js/ControlButtons/eWalletButton.js:0
 #, python-format
 msgid "Refund with eWallet"
-msgstr "Hoàn tiền vơí ví điện tử"
+msgstr "Hoàn tiền vơí Ví điện tử"
 
 #. module: pos_loyalty
 #. odoo-javascript
@@ -517,7 +517,7 @@ msgstr "Đã tiêu:"
 #. module: pos_loyalty
 #: model:ir.model.fields,help:pos_loyalty.field_loyalty_rule__any_product
 msgid "Technical field, whether all product match"
-msgstr ""
+msgstr "Lĩnh vực kỹ thuật, liệu tất cả các sản phẩm có phù hợp"
 
 #. module: pos_loyalty
 #. odoo-javascript

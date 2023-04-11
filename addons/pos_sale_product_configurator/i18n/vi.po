@@ -56,7 +56,7 @@ msgstr "Phiên bán hàng"
 #. module: pos_sale_product_configurator
 #: model:ir.model,name:pos_sale_product_configurator.model_product_product
 msgid "Product Variant"
-msgstr "Biến thể Sản phẩm"
+msgstr "Biến thể sản phẩm"
 
 #. module: pos_sale_product_configurator
 #. odoo-javascript

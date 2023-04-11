@@ -122,7 +122,7 @@ msgstr ""
 #. module: pos_restaurant
 #: model_terms:ir.ui.view,arch_db:pos_restaurant.res_config_settings_view_form
 msgid "Allow Bill Splitting"
-msgstr "Cho phép tách Hóa đơn"
+msgstr "Cho phép Tách Hóa đơn"
 
 #. module: pos_restaurant
 #: model:ir.model.fields,help:pos_restaurant.field_pos_config__iface_orderline_notes
@@ -253,13 +253,6 @@ msgid "CANCELLED"
 msgstr "HUỶ"
 
 #. module: pos_restaurant
-#. odoo-python
-#: code:addons/pos_restaurant/models/pos_config.py:0
-#, python-format
-msgid "Cash Bar"
-msgstr ""
-
-#. module: pos_restaurant
 #: model:product.template,name:pos_restaurant.pos_food_cheeseburger_product_template
 msgid "Cheese Burger"
 msgstr "Burger phô mai"
@@ -371,12 +364,12 @@ msgstr ""
 "Mỗi dòng đơn hàng có một địa chỉ IP xác định Proxy của phần cứng/IoT box \n"
 "                nơi có thể tìm thấy máy in và danh sách danh mục sản phẩm.\n"
 "                Máy in đơn hàng sẽ chỉ in bản cập nhật cho sản phẩm thuộc về một\n"
-"                trong những danh mục này."
+"                trong những danh mục này. "
 
 #. module: pos_restaurant
 #: model_terms:ir.ui.view,arch_db:pos_restaurant.res_config_settings_view_form
 msgid "Early Receipt Printing"
-msgstr "In hóa đơn sớm"
+msgstr "In Hóa đơn Sớm"
 
 #. module: pos_restaurant
 #. odoo-javascript
@@ -542,7 +535,7 @@ msgstr "Ghi chú nội bộ"
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_pos_config__module_pos_restaurant
 msgid "Is a Bar/Restaurant"
-msgstr "Là một Quầy Bar/Nhà hàng"
+msgstr "Là một Nhà hàng/Quầy Bar"
 
 #. module: pos_restaurant
 #. odoo-javascript
@@ -637,7 +630,7 @@ msgstr "Bánh kẹp Mozzarella "
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_pos_order__multiprint_resume
 msgid "Multiprint Resume"
-msgstr "Multiprint Resume"
+msgstr "Sơ yếu lý lịch in nhiều lần"
 
 #. module: pos_restaurant
 #. odoo-javascript
@@ -811,7 +804,7 @@ msgstr "Phiên bán hàng"
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_res_config_settings__pos_iface_orderline_notes
 msgid "Pos Iface Orderline Notes"
-msgstr "Ghi chú dòng đặt hàng Pos Iface"
+msgstr "Ghi chú dòng Đặt hàng Pos Iface"
 
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_res_config_settings__pos_iface_printbill
@@ -821,22 +814,22 @@ msgstr "Hóa đơn in Pos Iface"
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_res_config_settings__pos_iface_splitbill
 msgid "Pos Iface Splitbill"
-msgstr ""
+msgstr "Giao diện Pos Tách bill"
 
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_res_config_settings__pos_is_order_printer
 msgid "Pos Is Order Printer"
-msgstr "Pos là máy in đặt hàng"
+msgstr "Pos là Máy in Đặt hàng"
 
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_res_config_settings__pos_is_table_management
 msgid "Pos Is Table Management"
-msgstr "Pos là bảng quản lý"
+msgstr "Pos là Bảng Quản lý"
 
 #. module: pos_restaurant
 #: model:ir.model.fields,field_description:pos_restaurant.field_res_config_settings__pos_set_tip_after_payment
 msgid "Pos Set Tip After Payment"
-msgstr "Pos thiết lập tip sau khi thanh toán"
+msgstr "Pos Thiết lập Tip Sau khi Thanh toán"
 
 #. module: pos_restaurant
 #. odoo-javascript
@@ -1308,7 +1301,7 @@ msgstr "Không thể xóa bàn"
 #: code:addons/pos_restaurant/static/src/js/Screens/FloorScreen/FloorScreen.js:0
 #, python-format
 msgid "Unable to fetch orders"
-msgstr ""
+msgstr "Không thể tìm nạp đơn đặt hàng"
 
 #. module: pos_restaurant
 #. odoo-javascript
@@ -1385,7 +1378,7 @@ msgstr "Vàng"
 #: code:addons/pos_restaurant/static/src/js/Screens/ProductScreen/ControlButtons/TableGuestsButton.js:0
 #, python-format
 msgid "You cannot put a number that exceeds %s "
-msgstr ""
+msgstr "Bạn không thể đặt một số vượt quá %s "
 
 #. module: pos_restaurant
 #. odoo-python
@@ -1451,3 +1444,9 @@ msgstr "nút ở thanh soạn thảo để tạo các bàn mới."
 #, python-format
 msgid "discount"
 msgstr "chiết khấu"
+
+#. module: pos_restaurant
+#: code:addons/pos_restaurant/models/pos_config.py:0
+#, python-format
+msgid "Cash Bar"
+msgstr "Quầy Thanh toán"
