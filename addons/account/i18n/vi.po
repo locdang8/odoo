@@ -6067,11 +6067,7 @@ msgstr "Báo cáo động"
 #. module: account
 #: model:ir.model.fields,help:account.field_account_tax_repartition_line__tag_ids_domain
 msgid "Dynamic domain used for the tag that can be set on tax"
-<<<<<<< HEAD
 msgstr "Miền động được sử dụng cho các thẻ mà có thể được thiết lập ở thuế"
-=======
-msgstr "Miền động được sử dụng cho thẻ có thể được thiết lập theo thuế"
->>>>>>> refs/remotes/odoo/16.0
 
 #. module: account
 #: model:ir.model.fields,field_description:account.field_res_config_settings__module_l10n_eu_oss
@@ -10008,11 +10004,7 @@ msgstr "Số lượng lỗi"
 #: model:ir.model.fields,help:account.field_res_company__message_needaction_counter
 #: model:ir.model.fields,help:account.field_res_partner_bank__message_needaction_counter
 msgid "Number of messages requiring action"
-<<<<<<< HEAD
 msgstr "Số thông điệp cần có hành động"
-=======
-msgstr "Số tin nhắn cần xử lý"
->>>>>>> refs/remotes/odoo/16.0
 
 #. module: account
 #: model:ir.model.fields,help:account.field_account_account__message_has_error_counter
@@ -14145,13 +14137,8 @@ msgid ""
 "The date is being set prior to the %(lock_type)s lock date %(lock_date)s. "
 "The Journal Entry will be accounted on %(invoice_date)s upon posting."
 msgstr ""
-<<<<<<< HEAD
 "Ngày được đặt trước ngày %(lock_type)s khóa %(lock_date)s. Bút toán này được"
 " hạch toán vào sổ ngày %(accounting_date)s."
-=======
-"Ngày được đặt trước %(lock_type)s ngày khoá %(lock_date)s. Bút toán sẽ được "
-"hạch toán vào %(invoice_date)s khi vào sổ."
->>>>>>> refs/remotes/odoo/16.0
 
 #. module: account
 #. odoo-python
