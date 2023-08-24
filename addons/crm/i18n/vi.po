@@ -2726,7 +2726,11 @@ msgstr "Số lượng lead và cơ hội được phân công trong tháng trư�
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_lead__message_needaction_counter
 msgid "Number of messages requiring action"
+<<<<<<< HEAD
 msgstr "Số thông điệp cần có hành động"
+=======
+msgstr "Số tin nhắn cần xử lý"
+>>>>>>> refs/remotes/odoo/16.0
 
 #. module: crm
 #: model:ir.model.fields,help:crm.field_crm_lead__message_has_error_counter
