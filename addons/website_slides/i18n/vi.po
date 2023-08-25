@@ -4113,11 +4113,7 @@ msgstr "Số lượng lỗi"
 #: model:ir.model.fields,help:website_slides.field_slide_channel__message_needaction_counter
 #: model:ir.model.fields,help:website_slides.field_slide_slide__message_needaction_counter
 msgid "Number of messages requiring action"
-<<<<<<< HEAD
 msgstr "Số thông điệp cần có hành động"
-=======
-msgstr "Số tin nhắn cần xử lý"
->>>>>>> refs/remotes/odoo/16.0
 
 #. module: website_slides
 #: model:ir.model.fields,help:website_slides.field_slide_channel__message_has_error_counter
