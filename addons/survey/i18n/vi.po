@@ -2988,7 +2988,11 @@ msgstr "Số lần lỗi"
 #: model:ir.model.fields,help:survey.field_survey_survey__message_needaction_counter
 #: model:ir.model.fields,help:survey.field_survey_user_input__message_needaction_counter
 msgid "Number of messages requiring action"
+<<<<<<< HEAD
 msgstr "Số thông điệp cần có hành động"
+=======
+msgstr "Số tin nhắn cần xử lý"
+>>>>>>> refs/remotes/odoo/16.0
 
 #. module: survey
 #: model:ir.model.fields,help:survey.field_survey_survey__message_has_error_counter

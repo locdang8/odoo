@@ -3588,7 +3588,11 @@ msgstr "Số lỗi"
 #: model:ir.model.fields,help:project.field_project_task__message_needaction_counter
 #: model:ir.model.fields,help:project.field_project_update__message_needaction_counter
 msgid "Number of messages requiring action"
+<<<<<<< HEAD
 msgstr "Số thông điệp cần có hành động"
+=======
+msgstr "Số tin nhắn cần xử lý"
+>>>>>>> refs/remotes/odoo/16.0
 
 #. module: project
 #: model:ir.model.fields,help:project.field_project_milestone__message_has_error_counter
