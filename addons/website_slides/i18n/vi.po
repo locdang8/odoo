@@ -2766,7 +2766,7 @@ msgstr ""
 #: code:addons/website_slides/static/src/xml/website_slides_upload.xml:0
 #, python-format
 msgid "First, upload your videos on Vimeo and mark them as"
-msgstr "Đầu tiên, tải tệp lên tài khoản Vimeo của bạn."
+msgstr "Đầu tiên, tải tệp lên tài khoản Vimeo của bạn và đánh dấu nó là"
 
 #. module: website_slides
 #. odoo-javascript
