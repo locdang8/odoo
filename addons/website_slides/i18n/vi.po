@@ -6628,7 +6628,7 @@ msgid ""
 "                                    Your video will never come up in the search results nor on your channel."
 msgstr ""
 "nghĩa là? Cài đặt bảo mật Vimeo \"Private\" nghĩa là đây là video chỉ những người dùng có liên kết tới video đó mới có thể xem được.\n"
-"									Video của bạn sẽ không bao giờ xuất hiện trong kết quả tìm kiếm cũng như trên kênh của bạn. "
+"									Video của bạn sẽ không bao giờ xuất hiện trong kết quả tìm kiếm cũng như trên kênh của bạn."
 
 #. module: website_slides
 #. odoo-javascript
