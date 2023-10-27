@@ -319,8 +319,8 @@ msgid ""
 "Experience everything from a virtual exhibitor's hall to multiple "
 "interactive presentations and demos."
 msgstr ""
-"Trải nghiệm mọi thứ, từ khu trưng bày ảo đến các chia sẻ trong các buổi thuyết trình "
-"và các thử nghiệm."
+"Trải nghiệm và tương tác mọi thứ từ triển lãm ảo đến các buổi thuyết trình "
+"và trình diễn."
 
 #. module: mass_mailing_themes
 #: model_terms:ir.ui.view,arch_db:mass_mailing_themes.theme_tech_template
