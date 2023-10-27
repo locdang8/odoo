@@ -5964,7 +5964,7 @@ msgstr "Đang chờ thẩm định"
 #: code:addons/website_slides/controllers/main.py:0
 #, python-format
 msgid "Want to test and certify your students?"
-msgstr "Bạn muốn kiểm tra và nhận chứng nhận học viên của mình?"
+msgstr "Bạn muốn kiểm tra và nhận chứng nhận của mình?"
 
 #. module: website_slides
 #: model_terms:slide.slide,description:website_slides.slide_slide_demo_3_1
