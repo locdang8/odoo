@@ -488,8 +488,8 @@ msgid ""
 " has already been sent. Please use the 'Request EDI Cancellation' button "
 "instead."
 msgstr ""
-"Bạn không thể chỉnh sửa mục nhật ký sau %s vì một tài liệu điện tử"
-" đã được gửi. Thay vào đó, vui lòng sử dụng nút 'Yêu cầu hủy EDI'."
+"Bạn không thể chỉnh sửa bút toán sổ nhật ký %s vì một tài liệu điện tử"
+" đã được gửi. Thay vào đó, vui lòng sử dụng nút 'Yêu cầu hủy EDI' trước."
 
 #. module: account_edi
 #. odoo-python
