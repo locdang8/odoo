@@ -440,7 +440,7 @@ msgid ""
 "The payment will be processed asynchronously by the following E-invoicing "
 "service :"
 msgstr ""
-"Việc thanh toán sẽ được xử lý không đồng bộ bằng dịch vụ Hóa đơn điện tử sau :"
+"Việc thanh toán sẽ được xử lý bằng dịch vụ Hóa đơn điện tử sau:"
 
 #. module: account_edi
 #: model:ir.model.fields,help:account_edi.field_account_edi_document__error
