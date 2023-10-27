@@ -415,8 +415,8 @@ msgid ""
 "The currency (%s) of the document you are uploading is not active in this database.\n"
 "Please activate it and update the currency rate if needed before trying again to import."
 msgstr ""
-"Đơn vị tiền tệ (%s) của tài liệu bạn đang tải lên không hoạt động trong cơ sở dữ liệu này.\n"
-"Vui lòng kích hoạt nó và cập nhật tỷ giá tiền tệ nếu cần trước khi thử nhập lại."
+"Đơn vị tiền tệ (%s) của tài liệu bạn đang tải lên chưa được kích hoạt.\n"
+"Vui lòng kích hoạt nó và cập nhật tỷ giá tiền tệ nếu cần trước khi thử tải lên lại."
 
 #. module: account_edi
 #: model:ir.model.fields,help:account_edi.field_account_edi_document__attachment_id
