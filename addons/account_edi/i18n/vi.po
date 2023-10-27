@@ -489,7 +489,7 @@ msgid ""
 "instead."
 msgstr ""
 "Bạn không thể chỉnh sửa bút toán sổ nhật ký %s vì một tài liệu điện tử"
-" đã được gửi. Thay vào đó, vui lòng sử dụng nút 'Yêu cầu hủy EDI' trước."
+" đã được gửi. Thay vào đó, vui lòng nhấn vào nút 'Yêu cầu hủy EDI' trước."
 
 #. module: account_edi
 #. odoo-python
