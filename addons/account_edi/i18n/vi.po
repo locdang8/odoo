@@ -432,7 +432,7 @@ msgid ""
 "The invoice will be processed asynchronously by the following E-invoicing "
 "service :"
 msgstr ""
-"Hóa đơn sẽ được xử lý bất đồng bộ bằng dịch vụ Hóa đơn điện tử sau :"
+"Hóa đơn sẽ được xử lý bằng dịch vụ Hóa đơn điện tử sau:"
 
 #. module: account_edi
 #: model_terms:ir.ui.view,arch_db:account_edi.view_payment_form_inherit
