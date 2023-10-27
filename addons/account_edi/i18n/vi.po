@@ -498,7 +498,7 @@ msgstr ""
 msgid ""
 "You can't unlink an attachment being an EDI document sent to the government."
 msgstr ""
-"Bạn không thể hủy liên kết tệp đính kèm là tài liệu EDI được gửi tới chính phủ."
+"Bạn không thể xóa tài liệu EDI cái mà được liên kết với dịch vụ Hóa đơn điện tử."
 
 #. module: account_edi
 #: model_terms:ir.ui.view,arch_db:account_edi.view_move_form_inherit
