@@ -279,7 +279,7 @@ msgstr "Kontakt"
 #. module: delivery
 #: model:ir.model.fields,field_description:delivery.field_choose_delivery_carrier__display_price
 msgid "Cost"
-msgstr ""
+msgstr "Trošak"
 
 #. module: delivery
 #: model:ir.model.fields,field_description:delivery.field_delivery_carrier__country_ids
@@ -469,7 +469,7 @@ msgstr ""
 #. module: delivery
 #: model:ir.model.fields,field_description:delivery.field_delivery_carrier__prod_environment
 msgid "Environment"
-msgstr ""
+msgstr "Okruženje"
 
 #. module: delivery
 #. odoo-python
@@ -593,7 +593,7 @@ msgstr ""
 #. module: delivery
 #: model:ir.model.fields,field_description:delivery.field_delivery_carrier__invoice_policy
 msgid "Invoicing Policy"
-msgstr ""
+msgstr "Politika fakturisanja:"
 
 #. module: delivery
 #: model:ir.model.fields,field_description:delivery.field_stock_picking__is_return_picking
@@ -777,7 +777,7 @@ msgstr ""
 #. module: delivery
 #: model_terms:ir.ui.view,arch_db:delivery.view_delivery_carrier_form
 msgid "Pricing"
-msgstr ""
+msgstr "Određivanje cena"
 
 #. module: delivery
 #: model:ir.model.fields,field_description:delivery.field_delivery_carrier__price_rule_ids

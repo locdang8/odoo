@@ -1197,7 +1197,7 @@ msgstr "Barkod Qaydası"
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_res_config_settings__module_stock_barcode
 msgid "Barcode Scanner"
-msgstr ""
+msgstr "Barkod Oxuyucu "
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_product_product__valid_ean
@@ -6356,7 +6356,7 @@ msgstr ""
 #: model:ir.model.fields.selection,name:stock.selection__stock_picking_type__code__incoming
 #, python-format
 msgid "Receipt"
-msgstr ""
+msgstr "Qəbz"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_warehouse__reception_route_id
@@ -7145,13 +7145,6 @@ msgid "Sequence return"
 msgstr ""
 
 #. module: stock
-#. odoo-python
-#: code:addons/stock/models/stock_picking.py:0
-#, python-format
-msgid "Sequences %s already exist."
-msgstr ""
-
-#. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_move__lot_ids
 msgid "Serial Numbers"
 msgstr ""
@@ -7271,7 +7264,7 @@ msgstr ""
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_picking__move_type
 msgid "Shipping Policy"
-msgstr ""
+msgstr "Çatdırılma Siyasəti"
 
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.res_config_settings_view_form
@@ -8276,6 +8269,17 @@ msgstr ""
 #: code:addons/stock/report/report_stock_reception.py:0
 #, python-format
 msgid "This report cannot be used for done and not done %s at the same time"
+msgstr ""
+
+#. module: stock
+#. odoo-python
+#: code:addons/stock/models/stock_picking.py:0
+#, python-format
+msgid ""
+"This sequence prefix is already being used by another operation type. It is "
+"recommended that you select a unique prefix to avoid issues and/or repeated "
+"reference values or assign the existing reference sequence to this operation"
+" type."
 msgstr ""
 
 #. module: stock
