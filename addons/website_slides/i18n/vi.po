@@ -4423,7 +4423,7 @@ msgid ""
 "href=\"/web/signup?redirect=%s\">create an account</a> to join this course"
 msgstr ""
 "Vui lòng <a href=\"/web/login?redirect=%s\">đăng nhập</a> hoặc <a "
-"href=\"/web/signup?redirect=%s\">tạo một tài khoản</a> để dự khoá học này"
+"href=\"/web/signup?redirect=%s\">tạo một tài khoản</a> để tham gia khoá học này"
 
 #. module: website_slides
 #. odoo-javascript
